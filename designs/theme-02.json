@@ -1,0 +1,48 @@
+{
+  "size": 6,
+  "theme": [
+    [null, null, null, null, null, null],
+    [null, null, null, 5, 5, null],
+    [null, null, null, null, 5, null],
+    [null, null, 1, null, null, null],
+    [null, null, 1, 1, null, null],
+    [null, null, null, null, null, null]
+  ],
+  "options": {
+    "targets": [],
+    "superset": false,
+    "total": [0, 0],
+    "rules": 1,
+    "grows": false
+  },
+  "seed": 36,
+  "counts": {
+    "only": 6,
+    "propagate": 12
+  },
+  "fragments": 2,
+  "orderCorrelation": null,
+  "level": {
+    "catCount": 6,
+    "givenStates": null,
+    "id": "theme-02",
+    "maxMistakes": 3,
+    "regionIDs": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 4, 5, 5, 0],
+      [3, 3, 3, 3, 5, 2],
+      [3, 3, 1, 2, 2, 2],
+      [3, 3, 1, 1, 2, 2],
+      [3, 3, 2, 2, 2, 2]
+    ],
+    "size": 6,
+    "solution": [
+      [0, 0],
+      [1, 2],
+      [2, 4],
+      [3, 1],
+      [4, 3],
+      [5, 5]
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "size": 7,
+  "theme": [
+    [null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null]
+  ],
+  "options": {
+    "targets": ["strongLink"],
+    "superset": false,
+    "total": [1, 1],
+    "rules": 1,
+    "grows": false
+  },
+  "seed": 2,
+  "counts": {
+    "only": 7,
+    "propagate": 14,
+    "strongLink": 1
+  },
+  "fragments": 2,
+  "orderCorrelation": null,
+  "level": {
+    "catCount": 7,
+    "givenStates": null,
+    "id": "intro-strongLink-a",
+    "maxMistakes": 3,
+    "regionIDs": [
+      [6, 6, 6, 4, 4, 4, 4],
+      [6, 6, 6, 6, 6, 4, 4],
+      [2, 2, 3, 3, 0, 4, 4],
+      [2, 3, 3, 3, 0, 0, 0],
+      [2, 2, 3, 3, 1, 0, 0],
+      [2, 2, 3, 3, 0, 0, 5],
+      [2, 2, 2, 2, 5, 5, 5]
+    ],
+    "size": 7,
+    "solution": [
+      [0, 3],
+      [1, 0],
+      [2, 2],
+      [3, 6],
+      [4, 4],
+      [5, 1],
+      [6, 5]
+    ]
+  }
+}

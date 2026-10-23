@@ -1,0 +1,275 @@
+{
+  "size": 9,
+  "theme": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      0,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      0,
+      0,
+      0,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      1,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      1,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "options": {
+    "targets": [],
+    "superset": true,
+    "total": [
+      1,
+      4
+    ],
+    "rules": 1,
+    "grows": false,
+    "caps": {
+      "leftover": 0,
+      "lockedQuad": 0,
+      "branch": 0
+    }
+  },
+  "seed": 1,
+  "counts": {
+    "only": 9,
+    "propagate": 15,
+    "lockedPair": 3,
+    "locked1": 2,
+    "strongLink": 1
+  },
+  "fragments": 2,
+  "orderCorrelation": null,
+  "level": {
+    "catCount": 9,
+    "givenStates": null,
+    "id": "daily-sun-14",
+    "maxMistakes": 3,
+    "regionIDs": [
+      [
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        7,
+        7
+      ],
+      [
+        3,
+        3,
+        3,
+        3,
+        0,
+        3,
+        3,
+        7,
+        7
+      ],
+      [
+        4,
+        3,
+        3,
+        0,
+        0,
+        0,
+        3,
+        3,
+        7
+      ],
+      [
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        7
+      ],
+      [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        4,
+        4,
+        4,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        4,
+        4,
+        4,
+        4,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        8,
+        5,
+        5
+      ],
+      [
+        4,
+        4,
+        4,
+        8,
+        8,
+        8,
+        8,
+        8,
+        5
+      ]
+    ],
+    "size": 9,
+    "solution": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        5
+      ]
+    ]
+  }
+}

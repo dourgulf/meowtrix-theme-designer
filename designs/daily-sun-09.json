@@ -1,0 +1,232 @@
+{
+  "size": 8,
+  "theme": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      0,
+      0,
+      0,
+      0,
+      null,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "options": {
+    "targets": [],
+    "superset": true,
+    "total": [
+      1,
+      4
+    ],
+    "rules": 1,
+    "grows": false,
+    "caps": {
+      "leftover": 0,
+      "lockedQuad": 0,
+      "branch": 0
+    }
+  },
+  "seed": 1,
+  "counts": {
+    "only": 8,
+    "propagate": 16,
+    "locked1": 1,
+    "strongLink": 1
+  },
+  "fragments": 3,
+  "orderCorrelation": null,
+  "level": {
+    "catCount": 8,
+    "givenStates": null,
+    "id": "daily-sun-09",
+    "maxMistakes": 3,
+    "regionIDs": [
+      [
+        6,
+        6,
+        6,
+        6,
+        6,
+        3,
+        3,
+        3
+      ],
+      [
+        6,
+        6,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3
+      ],
+      [
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      [
+        4,
+        4,
+        4,
+        1,
+        1,
+        5,
+        5,
+        3
+      ],
+      [
+        4,
+        4,
+        4,
+        1,
+        1,
+        5,
+        5,
+        3
+      ],
+      [
+        4,
+        4,
+        4,
+        1,
+        1,
+        5,
+        2,
+        3
+      ],
+      [
+        4,
+        4,
+        4,
+        4,
+        7,
+        2,
+        2,
+        2
+      ]
+    ],
+    "size": 8,
+    "solution": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        7,
+        4
+      ]
+    ]
+  }
+}

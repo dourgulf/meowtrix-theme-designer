@@ -1,0 +1,55 @@
+{
+  "size": 8,
+  "theme": [
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null],
+    [null, null, null, null, null, null, null, null]
+  ],
+  "options": {
+    "targets": ["commonAttack"],
+    "superset": false,
+    "total": [1, 1],
+    "rules": 1,
+    "grows": false
+  },
+  "seed": 24,
+  "counts": {
+    "only": 8,
+    "propagate": 16,
+    "commonAttack": 1
+  },
+  "fragments": 2,
+  "orderCorrelation": null,
+  "level": {
+    "catCount": 8,
+    "givenStates": null,
+    "id": "intro-commonAttack-a",
+    "maxMistakes": 3,
+    "regionIDs": [
+      [0, 0, 4, 4, 4, 1, 1, 1],
+      [0, 0, 0, 0, 4, 4, 4, 1],
+      [6, 0, 6, 0, 4, 4, 1, 1],
+      [6, 0, 6, 6, 4, 4, 1, 1],
+      [6, 0, 6, 4, 4, 4, 4, 5],
+      [6, 6, 6, 3, 3, 4, 5, 5],
+      [7, 6, 6, 6, 5, 5, 5, 5],
+      [2, 2, 2, 6, 5, 5, 5, 5]
+    ],
+    "size": 8,
+    "solution": [
+      [0, 6],
+      [1, 1],
+      [2, 5],
+      [3, 3],
+      [4, 7],
+      [5, 4],
+      [6, 0],
+      [7, 2]
+    ]
+  }
+}
